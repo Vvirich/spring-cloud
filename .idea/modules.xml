@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/main-module/bff-service/bff-service.iml" filepath="$PROJECT_DIR$/main-module/bff-service/bff-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main-module/config/config.iml" filepath="$PROJECT_DIR$/main-module/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main-module/eureka-service/eureka-service.iml" filepath="$PROJECT_DIR$/main-module/eureka-service/eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main-module/main-module.iml" filepath="$PROJECT_DIR$/main-module/main-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main-module/room-services/room-services.iml" filepath="$PROJECT_DIR$/main-module/room-services/room-services.iml" />
+    </modules>
+  </component>
+</project>
