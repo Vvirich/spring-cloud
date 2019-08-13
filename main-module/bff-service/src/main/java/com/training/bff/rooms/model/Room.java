@@ -1,4 +1,4 @@
-package com.training.bff.model;
+package com.training.bff.rooms.model;
 
 import lombok.Data;
 
