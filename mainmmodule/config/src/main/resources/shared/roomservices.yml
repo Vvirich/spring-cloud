@@ -1,0 +1,16 @@
+server:
+  port: 8081
+
+spring:
+  jpa:
+    hibernate:
+      dll-auto: none
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgresPlusDialect
+        show_sql: true
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    username: postgres
+    password: root
+    url: jdbc:postgresql://localhost:5432/spring
