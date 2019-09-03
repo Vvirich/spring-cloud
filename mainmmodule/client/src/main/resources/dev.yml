@@ -1,0 +1,7 @@
+app:
+  projectKey: testmicroservices
+  clientId: L16UU9yLH5o1xBw8hvr3UVzP
+  clientSecret: BVd4jGTa7RK3IuMWqUadgjVApwg9gNNz
+  apiUrl: https://api.commercetools.co
+  authUrl: https://auth.commercetools.co
+  timeout: 10

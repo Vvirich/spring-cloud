@@ -1,0 +1,22 @@
+package com.training.checkout.request;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import lombok.Data;
+import org.hibernate.validator.constraints.NotEmpty;
+
+import java.util.Locale;
+
+@Data
+public class CreateCartRequest {
+
+    @NotEmpty
+    private String shippingAddress;
+    @NotEmpty
+    private String currencyCode;
+    @JsonProperty
+    private Locale locale;
+    @JsonProperty
+    private String shippingMethodId;
+    @JsonProperty
+    private String customerId;
+}

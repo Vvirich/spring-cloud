@@ -1,0 +1,9 @@
+package com.training.bff.productcatalog.response;
+
+import lombok.Data;
+
+@Data
+public class TestResponse {
+    private String gg;
+    private String ggg;
+}
